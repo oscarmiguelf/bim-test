@@ -9,3 +9,16 @@ Expo
 Se simula un porcentaje de error de la api del 50% y 500ms de retraso
 
 El diseñ no es el mejor pero se priorizó la funcionalidad dado el tiempo limitado
+
+
+1. Instalar dependencias
+
+   ```bash
+   npm install
+   ```
+
+2. Inicia la app
+
+   ```bash
+   npx expo start
+   ```
